@@ -8,7 +8,7 @@ The scripts can use command line arguments:
 
 For example:
 
-  tonegen -f 440 -r 44100 -t 5 -g
+ python tonegen.py -f 440 -r 44100 -t 5 -g
   
   where:
   
