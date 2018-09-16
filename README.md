@@ -21,7 +21,7 @@ For example:
     g: Graphics Userr Interface (GUI)
     
     
-if the '-g' argument is provided, a dialog box appears with any of the typed in arguments (not all have to be provided). If '-g' is not provided, all of the arguments must be provided.
+if the '-g' argument is provided, a dialog box appears with any of the provided arguments (none of the arguments is mandatory). If '-g' is not provided, all of the arguments must be provided.
 
 The result is a WAV file, named as follows:
 
