@@ -13,7 +13,7 @@ The scripts can use command line arguments:
 
     For example:
 
-        *python tonegen.py -f 440 -r 44100 -t 5 -g*
+        __*python tonegen.py -f 440 -r 44100 -t 5 -g*__
   
         where:
   
@@ -35,7 +35,7 @@ The result is a WAV file, named as follows:
  
         For example:
 
-            440Hz_2.0s.wav
+            __440Hz_2.0s.wav__
   
             Where the name is composed of:
   
