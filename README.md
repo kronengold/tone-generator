@@ -44,5 +44,15 @@ The result is a WAV file, named as follows:
                 2.0s - audio length, in seconds
     
                 .wav - the extension of the audio format
+
+## Sample
+A WAV file, *300Hz_3.0s.wav*, is provided as a sample. The file was generted with the following paramters:
+
+    Frequeny: 300 Hz
+    
+    Frame rate: 41,000 frames/second
+    
+    Duration: 3 seconds
+    
    
 
