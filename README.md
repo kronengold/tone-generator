@@ -33,16 +33,16 @@ The result is a WAV file, named as follows:
 
     [Frequency]Hz_[time]s.wav
  
-For example:
+        For example:
 
-    440Hz_2.0s.wav
+            440Hz_2.0s.wav
   
-      Where the name is composed of:
+            Where the name is composed of:
   
-          440Hz_- the provided frequency, in Hz, followed by an underscore
+                440Hz_- the provided frequency, in Hz, followed by an underscore
     
-          2.0s - audio length, in seconds
+                2.0s - audio length, in seconds
     
-          .wav - the extension of the audio format
+                .wav - the extension of the audio format
    
 
