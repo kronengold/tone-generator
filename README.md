@@ -1,6 +1,7 @@
 # tone-generator
 A Python script to create audio files based on frequecny, frame rates and length.
 
+
 The arguments can be given by command line arguments or by using a GUI, which is based on PySimpleGUI.
 
 The scripts can use command line arguments:
